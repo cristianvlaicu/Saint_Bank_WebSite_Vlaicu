@@ -19,5 +19,8 @@
   "homepage": "https://github.com/cristianvlaicu/Saint_Bank_WebSite_Vlaicu#readme",
   "devDependencies": {
     "parcel": "^2.13.2"
+  },
+  "dependencies": {
+    "svgo": "^3.3.2"
   }
 }
